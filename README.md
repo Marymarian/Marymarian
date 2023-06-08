@@ -3,6 +3,6 @@
 <h1 align="center">Greetings! I'm Marina Chukhareva.</h1>
 
 ## I like to learn new things and technologies to create something valuable...
-## Yandex.Practicum student.
+## Graduate Yandex.Practicum.
 ### Methods and tools: _Python, Django, Django REST Framework, PostgreSQL, Nginx, Gunicorn, Docker, Docker-Compose, Yandex.Cloud, Databases, OOP, algorithms and data structures, testing._
 
